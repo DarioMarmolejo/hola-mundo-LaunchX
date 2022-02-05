@@ -1,5 +1,5 @@
-# hola-mundo-LaunchX
-Mi primer repositorio de prueba en LaunchX
+# Hola Mundo con LaunchX
+Mi primer repositorio en LaunchX
 
 Autor: Dario Usiel Marmolejo Lopez
-Fecha: 04/02/2022
+Fecha: 05/02/2022
